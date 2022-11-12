@@ -1,6 +1,4 @@
-// create a function that will greet a person,
-// and assign the function to the `greet` variable
-var greet = function( person, message ) {
+ greet = function( person, message ) {
   var greeting = 'Hello, ' + person + '!';
   log( greeting + ' ' + message );
 };
