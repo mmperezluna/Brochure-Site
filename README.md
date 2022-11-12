@@ -1,5 +1,4 @@
 # Brochure Site
-  Auto detect text files and perform LF normalization
 * text=auto
 <!DOCTYPE html>
 <html lang="en">
