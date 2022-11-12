@@ -1,5 +1,5 @@
 # Brochure Site
-* text=auto
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
