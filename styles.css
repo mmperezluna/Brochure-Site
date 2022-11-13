@@ -1,21 +1,21 @@
 div {
-  background-color: lightblue;
+  background-color: lilac;
   opacity: 0.3;
 }
 head {
-  bbackground-color: lightblue;
+  bbackground-color: lilac;
   opacity: 0.3;
 }
 body {
-  background-color: lightblue;
+  background-color: lilac;
   opacity: 0.3;
 }
 h1 {
   color: tan;
 }
 h2 {
-  color:lilac;
+  color:light gray;
 }
 p {
-  color:coral
+  color:gray
 }
