@@ -8,11 +8,10 @@ div {
   text-align: centered;
   color:dark gray
 }
-  .center {
+.center {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
 section {
   width: 200px;
