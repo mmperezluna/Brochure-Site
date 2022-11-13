@@ -9,12 +9,10 @@ div {
 }
 }
 head {
-  bbackground-color: lilac;
-  opacity: 0.3;
+  background-color: lilac;
 }
 body {
   background-color: lilac;
-  opacity: 0.3;
 }
 h1 {
   color: tan;
