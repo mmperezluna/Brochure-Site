@@ -10,8 +10,8 @@
 <div>
 <body>
   <h1>RELAXATION SPA <h1>
-  <p>Welcome to my website!</p>
-  <img src= https://images.unsplash.com/photo-1620733723572-11c53f73a416?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3BhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60 | width=100)/>
+  <p>Welcome to our oasis!</p>
+  <img src= https://images.unsplash.com/photo-1620733723572-11c53f73a416?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3BhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=100 | width=200)/>
 <h2> We are confident you will be delighted with any of our therapies. Explore this site to learn more about our services provided <h2>
 </body>
 </div>
@@ -52,6 +52,12 @@
 </ul>
 <div>
 </html>
+<button class="button"> My button</button>
+<script>
+    $(".button").click(function(){
+        alert("You clicked my button");
+    })
+</script>
 <p> I have <span>
 twelve</span> dollars</p>
 
