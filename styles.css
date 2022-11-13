@@ -1,11 +1,14 @@
 div {
   background-color: lightblue;
+  opacity: 0.3;
 }
 head {
-  background-color: lavender 
+  bbackground-color: lightblue;
+  opacity: 0.3;
 }
 body {
-  background-color: lavender 
+  background-color: lightblue;
+  opacity: 0.3;
 }
 h1 {
   color: tan;
@@ -15,7 +18,4 @@ h2 {
 }
 p {
   color:coral
-}
-a:hover {
-  text-decoration:maroon
 }
