@@ -17,6 +17,6 @@ section {
   width: auto;
   border: auto solid #2d2d2d;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
