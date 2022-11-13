@@ -50,10 +50,13 @@
 <li> SAT 9am-5:30pm </li>
 <li> SUN CLOSED </li>
 </ul>
-<div>
+
 <form>
+    <input type="date>
+    <button type="submit"> Next</button?>
     <input type="text" placeholder="First Name">
     <button type="submit"> Next</button?>
+                         
 <button class="button"> My button</button>
 </html>
  <script>
