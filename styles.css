@@ -5,6 +5,7 @@ h2 {
   color:light gray;
 }
 p {
+  text-align: centered;
   color:dark gray
 }
 .center {
