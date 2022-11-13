@@ -51,9 +51,12 @@
 <li> SUN CLOSED </li>
 </ul>
 <div>
-</html>
+<form>
+    <input type="text" placeholder="First Name">
+    <button type="submit"> Next</button?>
 <button class="button"> My button</button>
-<script>
+</html>
+ <script>
     $(".button").click(function(){
         alert("You clicked my button");
     })
