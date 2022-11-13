@@ -12,11 +12,7 @@ div {
   display: flex;
   align-items: center;
   justify-content: center;
-}
 
-.center img {
-  width: 1px;
-  height: 1px;
 }
 section {
   width: 200px;
