@@ -1,10 +1,5 @@
 div {
   background-color: lilac;
-  .center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid dark purple;
-  padding: 10px;
 }
 head {
   background-color: lilac;
@@ -12,7 +7,7 @@ head {
 body {
   background-color: lilac;
 }
-h1 {
+h1 +p {
   color: tan;
 }
 h2 {
