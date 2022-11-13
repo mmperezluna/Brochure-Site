@@ -1,13 +1,10 @@
 div {
   background-color: lilac;
 }
-head {
-  background-color: lilac;
-}
 body {
   background-color: lilac;
 }
-h1 +p {
+h1 + p {
   color: tan;
 }
 h2 {
