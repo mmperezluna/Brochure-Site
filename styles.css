@@ -1,6 +1,12 @@
 div {
   background-color: lilac;
   opacity: 0.3;
+  .center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid dark purple;
+  padding: 10px;
+}
 }
 head {
   bbackground-color: lilac;
