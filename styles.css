@@ -29,7 +29,7 @@ section {
   align-items: flex-start;
 }
 .wrapper {
-  width: 500px;
+  width: auto;
   display: flex;
   flex-wrap: wrap;
 }
