@@ -4,13 +4,14 @@ h1 {
 h2 {
   color:light gray;
 }
+p {
+  color: dark gray;
+}
 div {
   text-align: centered;
   color:dark gray
 }
-p {
-  color: dark gray;
-}
+
 .center {
   display: flex;
   flex-wrap: wrap;
