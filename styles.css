@@ -29,10 +29,6 @@ section {
   align-items: flex-start;
 }
 .wrapper {
-  width: auto;
-  display: flex;
-  flex-wrap: wrap;
-}
-.wrapper > div {
-  flex: 1 1 150px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
