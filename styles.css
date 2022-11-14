@@ -11,12 +11,14 @@ div {
 .center {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 section {
   width: auto;
   border: auto solid #2d2d2d;
   display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
   justify-content: space-around;
   align-items: center;
 }
