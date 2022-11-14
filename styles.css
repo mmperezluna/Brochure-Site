@@ -8,6 +8,9 @@ div {
   text-align: centered;
   color:dark gray
 }
+p {
+  color: dark gray;
+}
 .center {
   display: flex;
   flex-wrap: wrap;
@@ -22,5 +25,5 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-around;
-  align-items: center;
+  align-items: flex-start;
 }
