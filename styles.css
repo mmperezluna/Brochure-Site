@@ -74,8 +74,9 @@ section {
                 font-size: 20px;
                 }
  .button{
-   border: 2px solid rgb(151,120,209);
-   background-color: black;
+   border: 2px solid;
+   border-color: #652A0E;
+   background-color: tan;
    color:white;
    padding-top:10px;
    padding-bottom:10px;
