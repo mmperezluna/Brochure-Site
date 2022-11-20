@@ -32,3 +32,22 @@ section {
   display: grid;
    grid-template-columns: repeat(auto-fill, auto);
 }
+
+ .topnav {
+            overflow: hidden;
+            background-color: #tan;
+        }
+            .topnav a {
+                float: right;
+                color: #f2f2f2;
+                text-align: center;
+                padding: 18px 16px;
+                text-decoration: none;
+                font-size: 20px;
+            }
+                .topnav a.split {
+                    float: right;
+                    color: white;
+                    font-size: 40px;
+                    font-family: 'Viner Hand ITC';
+                }
