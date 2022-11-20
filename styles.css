@@ -74,8 +74,8 @@ section {
                 font-size: 20px;
                 }
  .button {
-            background-color: #62A0E;
-            border: none;
+            background-color:#62A0E;
+            border: #62A0E;
             color: white;
             padding: 15px 60px;
             text-align: center;
