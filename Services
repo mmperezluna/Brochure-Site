@@ -1,0 +1,25 @@
+<div>      
+	<h2> Our Services <h2>
+  <table>
+  <tr>
+   		 <th>Service</th>
+   		 <th>Cost</th>
+  	</tr>
+ 	 <tr>
+   		 <td>Facials</td>
+   		 <td>$70</td>
+  	<tr>
+    		<td>Massage</td>
+    		<td>$100</td>
+	 <tr>
+    		<td>Manicure</td>
+   		 <td>$35</td>
+ 	<tr>
+    		<td>Pedicure</td>
+    		<td>$40</td>
+ 	<tr>
+    		<td>Mani + Pedi</td>
+    		<td>$65</td>
+  	</tr>
+	</table>
+</div>	
