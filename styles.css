@@ -12,6 +12,13 @@ div {
   color:dark gray
 }
 
+ img {
+            border-radius: 90%;
+            width: 400px;
+            padding: 10px;
+            width: 350px;
+            height: 350px;
+        }
 body 
   { 
     background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.wallpapersafari.com%2F31%2F82%2FgMmOhV.jpg&imgrefurl=https%3A%2F%2Fwallpapersafari.com%2Frelaxation-backgrounds%2F&tbnid=NSSM8N1tpHzBxM&vet=12ahUKEwjo-Pz8y737AhXMrHIEHdtsDEEQMyg_egQIARBi..i&docid=EBDflm6as9cTyM&w=1280&h=720&q=relaxing%20background%20images%20for%20website&ved=2ahUKEwjo-Pz8y737AhXMrHIEHdtsDEEQMyg_egQIARBi");
