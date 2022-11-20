@@ -1,11 +1,16 @@
 h1 {
   color: tan;
+  font-size: 40px;
+  text-align: centered;
 }
 h2 {
   color:light gray;
+  font-size: 30px;
+  text-align: wrapped;
 }
 p {
   color: dark gray;
+   font-size: 25px;
 }
 div {
   text-align: centered;
