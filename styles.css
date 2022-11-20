@@ -67,14 +67,14 @@ section {
                 font-size: 20px;
                 }
 .button {
-      background-color: #65350F;;
+      background-color: #65350F;
       color: white;
       padding: 14px 0;
       margin: 10px 0;
       border: none;
       cursor: grab;
       width: 48%;
-  justify-content: center;
+      justify-content: center;
       }
 button:hover {
       opacity: 0.8;
