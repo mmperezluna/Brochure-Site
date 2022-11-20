@@ -50,19 +50,13 @@ section {
 
  .topnav {
             overflow: hidden;
-            background-color: #tan;
+            background-color: tan;
         }
-            .topnav a {
+ .topnav a {
                 float: right;
                 color: #65350F;
                 text-align: center;
                 padding: 18px 16px;
                 text-decoration: none;
                 font-size: 20px;
-            }
-                .topnav a.split {
-                    float: right;
-                    color: white;
-                    font-size: 40px;
-                    font-family: 'Viner Hand ITC';
                 }
